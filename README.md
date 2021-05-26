@@ -8,4 +8,4 @@ Aymeric Astaing
 
 EPITECH TECH 3 - PARIS
 
-![alt text](https://imgur.com/a/rsxmORa "Logo Title Text 1")
+![alt text](https://i.imgur.com/WhjCoI6.png "Logo Title Text 1")
