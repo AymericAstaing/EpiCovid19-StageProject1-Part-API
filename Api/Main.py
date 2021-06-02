@@ -11,7 +11,7 @@ def to_dict():
     return d
 
 if __name__ == '__main__':
-    api.start(host=HOST, port=PORT)
+    #api.start(host=HOST, port=PORT)
     try:
         while True:
             api.data = to_dict()

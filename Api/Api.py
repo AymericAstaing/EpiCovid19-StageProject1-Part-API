@@ -21,3 +21,4 @@ def start(host, port):
     app_kwargs = {'host':host, 'port':port}
     # run the app on a thread
     threading.Thread(target=app.run, kwargs=app_kwargs).start()
+    threading.Thread.join()
